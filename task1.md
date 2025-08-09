@@ -1,1 +1,4 @@
-git remote add origin https://github.com/ashnaash/devops-project.git
+
+
+https://github.com/ashnaash/internship-day-4.git
+
